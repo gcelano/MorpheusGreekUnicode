@@ -1,6 +1,6 @@
 xquery version "3.1" encoding "utf-8";
 
-(: This library has been written and run with BaseX 8.6.2 by Giuseppe G. Celano.
+(: This main module has been written and run with BaseX 8.6.2 by Giuseppe G. Celano.
  : It is published under a CC BY-NC 4.0 license.     
  :)
 
